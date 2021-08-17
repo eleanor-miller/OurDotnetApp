@@ -6,7 +6,7 @@ namespace OurDotnetApp
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome to C#");
+      Console.WriteLine("Welcome to Eleanor's App!");
     }
   }
 }
